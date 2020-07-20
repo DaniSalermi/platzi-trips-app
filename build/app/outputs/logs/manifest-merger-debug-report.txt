@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\e8a913ae4d5bb1368cd99211f1bab540\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c5b047c4bbea2cfd895725baa3a350c0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a0c1114fdc360dbe021d27b26938defe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1b2409a7c232f2b7936b20ef8898eaf1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8d0498a0a538db6e5b557e0742e9f49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\07d9b1d95f76a131e005ac032610c395\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\02b360539d4d7349bb879c6ef13d7646\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b7666d12a71dd9a473010e2560178d35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5826320e69e0d03f34aed23531d87aa8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9e2a532e836aade2d35625cbfe62b589\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d1e7486f3a95e1894455b4de5e8a1fd5\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef2f70c1a102469b54b7a37bb07df580\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d1e7486f3a95e1894455b4de5e8a1fd5\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d1e7486f3a95e1894455b4de5e8a1fd5\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.anncode.platzitripsapp.MainActivity
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\e8a913ae4d5bb1368cd99211f1bab540\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\e8a913ae4d5bb1368cd99211f1bab540\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c5b047c4bbea2cfd895725baa3a350c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c5b047c4bbea2cfd895725baa3a350c0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a0c1114fdc360dbe021d27b26938defe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a0c1114fdc360dbe021d27b26938defe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1b2409a7c232f2b7936b20ef8898eaf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\1b2409a7c232f2b7936b20ef8898eaf1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8d0498a0a538db6e5b557e0742e9f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\b8d0498a0a538db6e5b557e0742e9f49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\54baae0c0e160f9c9a7cf39e62ee77e4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\07d9b1d95f76a131e005ac032610c395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\07d9b1d95f76a131e005ac032610c395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\02b360539d4d7349bb879c6ef13d7646\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\02b360539d4d7349bb879c6ef13d7646\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b7666d12a71dd9a473010e2560178d35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b7666d12a71dd9a473010e2560178d35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5826320e69e0d03f34aed23531d87aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5826320e69e0d03f34aed23531d87aa8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9e2a532e836aade2d35625cbfe62b589\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9e2a532e836aade2d35625cbfe62b589\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d1e7486f3a95e1894455b4de5e8a1fd5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\d1e7486f3a95e1894455b4de5e8a1fd5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef2f70c1a102469b54b7a37bb07df580\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SeizaDeveloper\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\ef2f70c1a102469b54b7a37bb07df580\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SeizaDeveloper\Documents\Flutter\Curso-de-Flutter-Avanzado-en-Platzi-master\android\app\src\main\AndroidManifest.xml

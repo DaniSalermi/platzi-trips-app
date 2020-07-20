@@ -1,0 +1,4 @@
+#Mon Jul 20 10:38:08 CLT 2020
+base.0=C\:\\Users\\SeizaDeveloper\\Documents\\Flutter\\Curso-de-Flutter-Avanzado-en-Platzi-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
